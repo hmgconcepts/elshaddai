@@ -1,0 +1,12 @@
+{
+  "name": "El Shaddai Christian Drama Ministry",
+  "short_name": "El Shaddai",
+  "description": "Preaching Christ through drama and film. Thy Word Is Light — Psalm 119:105.",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#0e1f66",
+  "theme_color": "#0e1f66",
+  "icons": [
+    { "src": "assets/images/logo.jpg", "sizes": "512x512", "type": "image/jpeg", "purpose": "any" }
+  ]
+}

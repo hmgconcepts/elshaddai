@@ -1,0 +1,19 @@
+/* TEAM */
+Ministry: El Shaddai Christian Drama Ministry
+Email: elshaddaidrama2018@gmail.com
+Founder: 0703 508 3094 (Call/WhatsApp), 0902 538 6266
+
+Developer: Adewale Samson Adeagbo (AI-Augmented Solutions Developer)
+Site: https://cssadewale.pages.dev
+Company: HMG Technologies — an HMG Concepts company
+  https://hmgtechnologies.pages.dev
+  https://hmgconcepts.pages.dev
+  https://hmgacademy.pages.dev
+  https://hmgmedia.pages.dev
+  https://hmggospel.pages.dev
+Contact: https://wa.me/2348100866322
+
+/* SITE */
+Standards: HTML5, CSS3, Vanilla JavaScript, PWA
+Hosting: Free (Cloudflare Pages / GitHub Pages / Netlify)
+Motto: Thy Word Is Light — Psalm 119:105
